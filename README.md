@@ -16,4 +16,6 @@ ScorpioCoing QuickStart Docker Nginx Php stack
   ```
   docker compose down
   ```
-- http://localhost:6080
+- The frontend http://localhost:6080
+
+- phpMyadmin http://localhost:6081
