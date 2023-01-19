@@ -1,8 +1,8 @@
 ![image](quickstart-github-banner.png)
 
-# sc-qs-dc-php
+# sc-qs-dc-php-lemp
 
-ScorpioCoing QuickStart Docker Nginx Php stack
+ScorpioCoing QuickStart Docker Apline Nginx Php MySql (LEMP) stack
 
 ## Basic Usage
 
